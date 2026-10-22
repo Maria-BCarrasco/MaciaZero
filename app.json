@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "MACIA Zero",
+    "slug": "macia-zero-web-pronto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FCF8F2"
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "MACIA Zero"
+    }
+  }
+}
